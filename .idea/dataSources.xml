@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="2020_03_08_Student_Classroom@47.95.145.116" uuid="d33b2b3f-8123-4739-8c59-3fda38dd45b2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>班级学生表2020-4-7 13:56:44</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://47.95.145.116:3306/2020_03_08_Student_Classroom?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=false&amp;allowMultiQueries=true</jdbc-url>
+    </data-source>
+  </component>
+</project>
